@@ -1,0 +1,5 @@
+PORT=3000
+# Add your real Telegram bot token here
+BOT_TOKEN=
+# Add your public HTTPS URL here before connecting to BotFather
+WEB_APP_URL=
